@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<voicemail>
+<voicemail numeric="334020" carrier="TELCEL" vmnumber="*86"/>
+<voicemail numeric="334050" carrier=" IUSACELL" vmnumber="*86"/>
+<voicemail numeric="334030" carrier=" MOVISTARM" vmnumber="*86"/>
+<voicemail numeric="732001" carrier="CLARO" vmnumber="*123"/>
+<voicemail numeric="73003" carrier="CLARO" vmnumber="*20"/>
+<voicemail numeric="71610" carrier="CLARO" vmnumber="131"/>
+</voicemail>

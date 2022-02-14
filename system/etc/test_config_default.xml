@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FactoryTest>
+	<TestItem name="ItemVersion" enable="true" auto="true" pcba="true">
+        </TestItem>
+	<TestItem name="ItemALSPS" enable="false" auto="false" pcba="false">
+        </TestItem>
+	<TestItem name="ItemTouch" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemGTPSensor" enable="false" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemLcd" enable="true" auto="false" pcba="false">
+        </TestItem>
+	<TestItem name="ItemBackLight" enable="true" auto="false" pcba="false">
+        </TestItem>
+	<TestItem name="ItemKeyLight" enable="false" auto="false" pcba="false">
+        </TestItem>
+	<TestItem name="ItemReceiver" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemSpeaker" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemKeyVibrator" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemMainMic" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemHeadset" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemFM" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemGSensorCli" enable="true" auto="false" pcba="false" kb="true" ub="true">
+	</TestItem>        
+	<TestItem name="ItemGravitySensor" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemMagneticSensor" enable="false" auto="false" pcba="false">
+        </TestItem>
+	<TestItem name="ItemGyroscope" enable="false" auto="false" pcba="false">
+        </TestItem>
+	 <TestItem name="ItemSim" enable="true" auto="true" pcba="true">
+        </TestItem>
+	<TestItem name="ItemSD" enable="true" auto="true" pcba="true">
+        </TestItem>
+	<TestItem name="ItemWifi" enable="true" auto="true" pcba="true">
+        </TestItem>
+        <TestItem name="ItemBluetooth" enable="true" auto="true" pcba="true">
+        </TestItem>
+        <TestItem name="ItemGPS" enable="true" auto="true" pcba="true">
+        </TestItem>
+	<TestItem name="ItemOTG" enable="true" auto="false" pcba="true">
+        </TestItem>
+        <TestItem name="ItemCameraBack" enable="true" auto="false" pcba="true">
+        </TestItem>
+        <TestItem name="ItemCameraFront" enable="true" auto="false" pcba="true">
+        </TestItem>
+	<TestItem name="ItemBatteryAndLED" enable="true" auto="false" pcba="true">
+        </TestItem>
+        <TestItem name="ItemRTC" enable="false" auto="false" pcba="true">
+        </TestItem>
+
+        <!--For FM -->
+        <fmconfig name="FMRadio.CH1" value="1043"/>
+	<fmconfig name="FMRadio.CH2" value="879"/>
+	<fmconfig name="FMRadio.CH3" value="980"/>
+	<fmconfig name="FMRadio.CH3" value="1080"/>
+
+	<!--For FM -->
+        <keypad name="KEYCODE_VOLUME_UP" enable="true"/>
+	<keypad name="KEYCODE_VOLUME_DOWN" enable="true"/>
+	<keypad name="KEYCODE_MENU" enable="false"/>
+	<keypad name="KEYCODE_HOME" enable="true"/>
+	<keypad name="KEYCODE_BACK" enable="true"/>
+	<keypad name="KEYCODE_POWER" enable="true"/>
+</FactoryTest>
+
+
+

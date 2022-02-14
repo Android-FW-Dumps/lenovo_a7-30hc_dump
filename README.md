@@ -1,0 +1,14 @@
+# huaqin82_tb_b2d_kk-user LenovoLenovoTAB2A7-30HC A7-30HC_S0017_141229_ROW_MY release-keys
+- manufacturer: lenovo
+- platform: 
+- codename: A7-30HC
+- flavor: user
+- release: 4.4.2
+- id: KOT49H
+- incremental: Lenovo_A7-30HC_S0017
+- tags: release-keys
+- fingerprint: Lenovo/LenovoTAB2A7-30HC/A7-30HC:4.4.2/KOT49H/A7-30HC_S0017_141229_ROW_MY:user/release-keys
+- is_ab: false
+- brand: Lenovo
+- branch: huaqin82_tb_b2d_kk-user-LenovoLenovoTAB2A7-30HC-A7-30HC_S0017_141229_ROW_MY-release-keys
+- repo: lenovo_a7-30hc_dump
